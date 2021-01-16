@@ -2,6 +2,7 @@
 Next Level Week #2 - React, ReactNative, nodejs, SQLite, Typescript
 
 ## Project setup
+Na pasta web e na pasta mobile execute:
 ```
 npm install
 ```
