@@ -20,7 +20,7 @@ Dentro da pasta mobile execute:
 ```
 expo start
 ```
-Em seguida: 
+Em seguida quando aparecer as opçoes do expo digite:
 
 ```
 a
