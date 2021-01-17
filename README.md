@@ -6,10 +6,22 @@ Na pasta web e na pasta mobile execute:
 ```
 npm install
 ```
-
 ### Executar Web
 Dentro da pasta web execute:
 
 ```
 npm start
+```
+
+
+### Executar Mobile
+Dentro da pasta mobile execute:
+
+```
+expo start
+```
+Em seguida: 
+
+```
+a
 ```
