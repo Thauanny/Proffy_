@@ -20,6 +20,10 @@ Dentro da pasta mobile execute:
 ```
 expo start
 ```
+ou 
+```
+npm start
+```
 Em seguida quando aparecer as opçoes do expo digite:
 
 ```
